@@ -1,4 +1,4 @@
-# locales
+bc1qv3qzrjj6stx32hfnqekcjejjdp9pzam4at4r84# locales
 {
   "home": "خانه",
   "search": "جستجو",
